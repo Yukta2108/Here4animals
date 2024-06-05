@@ -419,7 +419,7 @@ button:hover{
 .buttn:hover{
     background-color: black;
     transition: all .50s ease;
-    
+    cursor: pointer;
 }
 .footer1{
     text-align: center;
